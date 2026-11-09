@@ -1,0 +1,6 @@
+*.exe
+*.zip
+*.log
+RA3Mouse.ini
+RA3Mouse-backup/
+dist/
